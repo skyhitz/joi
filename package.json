@@ -14,7 +14,7 @@
     "node": ">=8.3.0"
   },
   "dependencies": {
-    "hoek": "5.x.x",
+    "hoek": "skyhitz/hoek#7de0d07a82737c8fd8af1c7f21bae9103d0193b7",
     "isemail": "3.x.x",
     "topo": "3.x.x"
   },
